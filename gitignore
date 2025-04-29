@@ -1,0 +1,11 @@
+# dependency
+node_modules/
+
+# production
+.next/
+out/
+
+# misc
+.DS_Store
+.env
+*.log
