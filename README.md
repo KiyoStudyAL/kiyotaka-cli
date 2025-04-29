@@ -1,19 +1,20 @@
 # Kiyotaka CLI
 
-Kiyotaka CLI is a lightweight shell script tool designed to simplify automation in Termux.  
-Ideal for users who want to speed up setup and scripting.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Shell](https://img.shields.io/badge/Built_with-Bash-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Made with love](https://img.shields.io/badge/Made_with-Termux-red?logo=termux)](https://termux.dev/)
+
+**Kiyotaka CLI** is a lightweight and fast shell script for automating common Termux setup tasks.
 
 ## Features
-- Automates common Termux setup tasks
+- Automates Termux setup
 - Simple and fast CLI usage
-- Lightweight script
+- Lightweight and clean script
 
-## How to Use
+## Installation
 
 ```bash
-git clone https://github.com/namamu/kiyotaka-cli.git
+git clone https://github.com/KiyoStudyAL/kiyotaka-cli.git
 cd kiyotaka-cli
 chmod +x kiyotaka.sh
 ./kiyotaka.sh
-
-
